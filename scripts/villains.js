@@ -2,7 +2,6 @@ import { getVillains } from "./database.js"
 
 const villains = getVillains()
 
-
 // This function, when invoked, will generate a string of HTML that looks like this.
 
 // <ul>
